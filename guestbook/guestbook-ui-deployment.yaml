@@ -19,4 +19,4 @@ spec:
         ports:
         - containerPort: 80
       nodeSelector:
-        kubernetes.io/hostname : nuc02
+        kubernetes.io/hostname : nuc03
